@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "657154736685",
+    "project_id": "botany-iub",
+    "storage_bucket": "botany-iub.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:657154736685:android:3faf5a218254442c8b6ea4",
+        "android_client_info": {
+          "package_name": "com.example.botany"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "657154736685-pt5dlood3so43udm58dlpb682p3vdrte.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBoGgemZdYj0PknTrC8Xzi6y4p2utZAoQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "657154736685-pt5dlood3so43udm58dlpb682p3vdrte.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
